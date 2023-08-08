@@ -4,4 +4,4 @@
 - 💼 Check out my portfolio and projects at [My Portfolio Link](https://63263795748e56241f18cf8b--zippy-kulfi-0bcb40.netlify.app/).
 - 💞️ I’m looking to collaborate on solving MERN-based problems and creating impactful web applications.
 - 📫 Reach me at graceunstoppable7@gmail.com
--  Find me on linkdin: [Ankush Kumar](www.linkedin.com/in/grace777)
+-  Find me on linkdin: [Ankush Kumar](www.linkedin.com/in/grace777/)
