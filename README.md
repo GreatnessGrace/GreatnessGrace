@@ -29,7 +29,7 @@ Experienced Software Engineer specializing in fullstack development utilizing No
   
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Monorepo Development
+- 🚀 Learning Monorepo Development 
   - Exploring the ins and outs of Monorepo for a single repository for all apps.
   - Learning React & Next.js.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
