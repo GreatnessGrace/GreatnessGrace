@@ -42,6 +42,13 @@
 - Comprehensive bug fixing and troubleshooting for existing codebases.
 - Optimization and refactoring of code to enhance performance, ensure type safety, and improve overall efficiency.
 
+
+## 🏆 Achievements
+
+- ![Pull Shark](https://github.githubassets.com/images/modules/profile/badge--pull-shark-default.svg) **Pull Shark**: @GreatnessGrace opened pull requests that have been merged.
+- ![Quickdraw](https://github.githubassets.com/images/modules/profile/badge--quickdraw-default.svg) **Quickdraw**: Achieved for quick responses in issues or pull requests.
+- ![Gitty up!](https://github.githubassets.com/images/modules/profile/badge--gitty-up-default.svg) **Gitty up!**: For maintaining high activity on GitHub.
+
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://x.com/GraceAnkush)
