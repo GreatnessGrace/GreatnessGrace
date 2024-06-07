@@ -47,4 +47,5 @@
 - 📫 Reach me at graceunstoppable7@gmail.com
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 
-🚀 Feel free to reach out if you have any questions or need assistance with your projects. Let's build something amazing together!
+
+## 🚀 Feel free to reach out if you have any questions or need assistance with your projects. Let's build something amazing together!
