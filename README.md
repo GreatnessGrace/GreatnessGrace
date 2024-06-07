@@ -2,8 +2,7 @@
 
  Experienced Software Engineer specializing in fullstack development utilizing Node.js and Angular with a proven track record, actively seeking opportunities to contribute expertise and further advance my career in the realm of software development
 
-![GreatnessGrace's Stats](https://github-readme-stats.vercel.app/api?username=GreatnessGrace&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=prs,contribs&hide=stars,issues)
-
+![GreatnessGrace's Stats](https://github-readme-stats.vercel.app/api?username=GreatnessGrace&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&custom_title=User's%20Stats&token=${{ secrets.TOKEN }})
 ## 🚀 About Me
 
 - 🔭 I'm currently working as a Full Stack Developer at CDAC Mohali.
