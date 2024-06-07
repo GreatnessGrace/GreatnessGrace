@@ -9,7 +9,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - 🔭 I'm currently working as a full stack developer at CDAC Mohali.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typecript,express,websocket,,angular,react,html,css,bootstrap,scss,tailwind,mysql,mongodb,elasticsearch,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typecript,express,websocket,angular,react,html,css,bootstrap,scss,tailwind,mysql,mongodb,elasticsearch,redis)](https://skillicons.dev)
 
 
 ## Tools I Use
@@ -42,9 +42,9 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://x.com/GraceAnkush)
-- Connect with me on [Linkdin](www.linkedin.com/in/grace777/)
+- Connect with me on [Linkdin](https://linkedin.com/in/grace777/)
 - 💼 Check out my portfolio and projects at [My Portfolio Link](https://63263795748e56241f18cf8b--zippy-kulfi-0bcb40.netlify.app/).
 - 📫 Reach me at graceunstoppable7@gmail.com
-- 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-Feel free to reach out if you have any questions or need assistance with your projects. Let's build something amazing together!
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 
+🚀 Feel free to reach out if you have any questions or need assistance with your projects. Let's build something amazing together!
