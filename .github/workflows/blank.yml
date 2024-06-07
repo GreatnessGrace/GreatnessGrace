@@ -1,0 +1,33 @@
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch GitHub Stats
+        run: |
+          echo "![GreatnessGrace's Stats](https://github-readme-stats.vercel.app/api?username=GreatnessGrace&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&custom_title=User's%20Stats&token=${{ secrets.TOKEN }})" > README.md.tmp
+
+      - name: Update README
+        run: |
+          sed -i '/^<!-- START_SECTION:github-stats -->$/,/^<!-- END_SECTION:github-stats -->$/c\
+          <!-- START_SECTION:github-stats -->\
+          '"$(cat README.md.tmp)"'\
+          <!-- END_SECTION:github-stats -->' README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m 'Update README with GitHub stats'
+          git push
