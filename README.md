@@ -20,7 +20,7 @@
 - **CI/CD**:  GitHub Actions
 - **Cloud Platforms**: Aiven
 - **Others**: Postman, HopScotch
-- 
+  
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Monorepo Development
