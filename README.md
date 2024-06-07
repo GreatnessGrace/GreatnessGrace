@@ -1,6 +1,6 @@
 # Hi, I'm Ankush! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+ Experienced Software Engineer specializing in fullstack development utilizing Node.js and Angular with a proven track record, actively seeking opportunities to contribute expertise and further advance my career in the realm of software development
 
 ![GreatnessGrace's Stats](https://github-readme-stats.vercel.app/api?username=GreatnessGrace&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
