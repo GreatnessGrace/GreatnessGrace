@@ -14,7 +14,7 @@ Experienced Software Engineer specializing in fullstack development utilizing No
 ## Tech Stack
 <p align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,express,angular,react,html,css,bootstrap,scss,tailwind,mysql,mongodb,elasticsearch,redis&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,express,angular,react,html,css,bootstrap,scss,tailwind,mysql,mongodb,elasticsearch,redis&perline=5)]
 
 </p>
 
