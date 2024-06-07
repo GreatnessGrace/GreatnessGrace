@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a full stack developer at CDAC Mohali.
+- 🔭 I'm currently working as a Full Stack Developer at CDAC Mohali.
 
 ## Tech Stack
 <p align="center">
@@ -37,11 +37,11 @@
 
 ## Services I Provide
 
-- Scalable web applications using React, Next.js, Angular, or any other stack you prefer.
-- Scalable backend development with Node.js.
-- Database development tailored to your needs, whether SQL or NoSQL.
-- Bug fixing for your code.
-- Converting your less optimized code into highly optimized code, including type safety and performance enhancements.
+- Development of modern designed web applications using frameworks such as React, Next.js, Angular, or a stack of your choice.
+- Creation and maintenance of scalable backend systems utilizing Node.js.
+- Customized database development to meet specific requirements, including both SQL and NoSQL solutions.
+- Comprehensive bug fixing and troubleshooting for existing codebases.
+- Optimization and refactoring of code to enhance performance, ensure type safety, and improve overall efficiency.
 
 ## 📬 Get in Touch
 
