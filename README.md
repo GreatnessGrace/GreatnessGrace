@@ -11,7 +11,8 @@
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,express,socket,angular,react,html,css,bootstrap,scss,tailwind,mysql,mongodb,elasticsearch,redis&perline=5)] </a>
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,express,socket,angular,react,html,css,bootstrap,scss,tailwind,mysql,mongodb,elasticsearch,redis&perline=5)](https://skillicons.dev)
+  </a>
 </p>
 
 
