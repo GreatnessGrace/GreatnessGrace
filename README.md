@@ -11,7 +11,7 @@
 ## Tech Stack
 <p align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,express,socket,angular,react,html,css,bootstrap,scss,tailwind,mysql,mongodb,elasticsearch,redis&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,express,angular,react,html,css,bootstrap,scss,tailwind,mysql,mongodb,elasticsearch,redis&perline=5)](https://skillicons.dev)
 
 </p>
 
