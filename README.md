@@ -5,7 +5,7 @@
 ![GreatnessGrace's Stats](https://github-readme-stats.vercel.app/api?username=GreatnessGrace&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&custom_title=User's%20Stats&token=${{secrets.TOKEN}})
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a Full Stack Developer at CDAC Mohali.
+- 🔭 I'm currently working as a Full Stack Developer .
 
 ## Tech Stack
 <p align="center">
