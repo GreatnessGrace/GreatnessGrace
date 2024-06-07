@@ -23,7 +23,7 @@
 - **Containerization**: Docker
 - **CI/CD**:  GitHub Actions
 - **Cloud Platforms**: Aiven
-- **Others**: Postman, HopScotch
+- **Others**: Postman, HoppScotch, npm, yarn, MongoDB Compass, MYSQL Workbench 
   
 ## 🌱 Currently Exploring
 
