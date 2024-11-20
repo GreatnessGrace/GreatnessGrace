@@ -50,7 +50,7 @@ Experienced Software Engineer specializing in fullstack development utilizing No
 
 - Connect with me on [Twitter](https://x.com/GraceAnkush)
 - Connect with me on [Linkdin](https://linkedin.com/in/grace777/)
-- 💼 Check out my portfolio and projects at [My Portfolio Link](https://63263795748e56241f18cf8b--zippy-kulfi-0bcb40.netlify.app/).
+- 💼 Check out my portfolio and projects at [My Portfolio Link](https://portfolio-nextjs-tau-eight.vercel.app/).
 - 📫 Reach me at graceunstoppable7@gmail.com
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 
