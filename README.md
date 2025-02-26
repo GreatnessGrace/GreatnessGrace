@@ -2,6 +2,8 @@
 
 Experienced Software Engineer specializing in fullstack development utilizing Node.js and Angular with a proven track record, actively seeking opportunities to contribute expertise and further advance my career in the realm of software development
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GreatnessGrace&label=Profile%20views&color=0e75b6&style=flat" alt="Grace" /> </p>
+
 <!-- START_SECTION:github-stats -->
 ![GreatnessGrace's Stats](https://github-readme-stats.vercel.app/api?username=GreatnessGrace&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&custom_title=User's%20Stats&hide_rank=true)
 <!-- END_SECTION:github-stats -->
@@ -10,8 +12,6 @@ Experienced Software Engineer specializing in fullstack development utilizing No
 ## 🚀 About Me
 
 - 🔭 I'm currently working as a Full Stack Developer .
-
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=GreatnessGrace&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=GreatnessGrace&label=Profile%20Hits&color=00ffcc&style=plastic)" alt="Grace" /> </p>
 
 ## Tech Stack
 <p align="center">
