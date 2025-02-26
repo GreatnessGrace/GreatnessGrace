@@ -10,9 +10,10 @@ Experienced Software Engineer specializing in fullstack development utilizing No
 
 <p align="center">  
   <a href="https://github.com/ryo-ma/github-profile-trophy">  
-    <img src="https://github-profile-trophy.vercel.app/?username=GreatnessGrace&theme=algolia&no-bg=true&margin-w=10&margin-h=10&column=4&exclude=Reviews,Issues,Stars,Followers,Experience" alt="Grace's GitHub Trophies" />  
+    <img src="https://github-profile-trophy.vercel.app/?username=GreatnessGrace&theme=algolia&no-bg=true&margin-w=10&margin-h=10&column=3&title=Commit,Repositories,PullRequest" alt="Grace's GitHub Trophies" />  
   </a>  
 </p>
+
 
 
 
