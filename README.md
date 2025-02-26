@@ -11,6 +11,8 @@ Experienced Software Engineer specializing in fullstack development utilizing No
 
 - 🔭 I'm currently working as a Full Stack Developer .
 
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=GreatnessGrace&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=GreatnessGrace&label=Profile%20Hits&color=00ffcc&style=plastic)" alt="Grace" /> </p>
+
 ## Tech Stack
 <p align="center">
  
