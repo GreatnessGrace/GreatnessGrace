@@ -10,9 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=GreatnessGrace&label=Profile%20Hits&color=00ffcc&style=plastic" alt="Profile Views" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GreatnessGrace&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues,contribs&custom_title=Grace's%20GitHub%20Stats&card_width=500&rank_icon=github" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreatnessGrace&theme=vue-dark&layout=compact&hide_border=true&langs_count=6&card_width=400" alt="Top Languages" />
