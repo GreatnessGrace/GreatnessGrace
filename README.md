@@ -5,7 +5,10 @@ Experienced Software Engineer specializing in fullstack development utilizing No
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GreatnessGrace&label=Profile%20Hits&color=00ffcc&style=plastic" alt="Grace" /> </p>
 
 <!-- START_SECTION:github-stats -->
-![GreatnessGrace's Stats](https://github-readme-stats.vercel.app/api?username=GreatnessGrace&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&custom_title=User's%20Stats&hide_rank=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreatnessGrace&theme=vue-dark&layout=compact&hide_border=true&langs_count=6&card_width=400" alt="Top Languages" />
+</p>
+
 <!-- END_SECTION:github-stats -->
 
 <p align="center">  
