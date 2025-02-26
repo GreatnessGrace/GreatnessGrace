@@ -8,6 +8,7 @@ Experienced Software Engineer specializing in fullstack development utilizing No
 ![GreatnessGrace's Stats](https://github-readme-stats.vercel.app/api?username=GreatnessGrace&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&custom_title=User's%20Stats&hide_rank=true)
 <!-- END_SECTION:github-stats -->
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GreatnessGrace" alt="Grace" /></a> </p>
 
 ## 🚀 About Me
 
