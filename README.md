@@ -4,6 +4,12 @@
 
 ---
 
+### 🔥 Commits Stats
+https://github-readme-streak-stats.herokuapp.com/?user=GreatnessGrace&theme=radical&hide_border=true
+
+---
+
+
 ## 📊 **GitHub Stats & Profile Views**
 
 <p align="left">
